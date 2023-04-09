@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-ghpages/static/css/main.0d224838.css",
-    "main.js": "/react-ghpages/static/js/main.9624ff6d.js",
-    "static/js/787.2843ca88.chunk.js": "/react-ghpages/static/js/787.2843ca88.chunk.js",
-    "index.html": "/react-ghpages/index.html",
-    "main.0d224838.css.map": "/react-ghpages/static/css/main.0d224838.css.map",
-    "main.9624ff6d.js.map": "/react-ghpages/static/js/main.9624ff6d.js.map",
-    "787.2843ca88.chunk.js.map": "/react-ghpages/static/js/787.2843ca88.chunk.js.map"
+    "main.css": "/todoapp/static/css/main.0d224838.css",
+    "main.js": "/todoapp/static/js/main.dc20d6c3.js",
+    "static/js/787.2843ca88.chunk.js": "/todoapp/static/js/787.2843ca88.chunk.js",
+    "index.html": "/todoapp/index.html",
+    "main.0d224838.css.map": "/todoapp/static/css/main.0d224838.css.map",
+    "main.dc20d6c3.js.map": "/todoapp/static/js/main.dc20d6c3.js.map",
+    "787.2843ca88.chunk.js.map": "/todoapp/static/js/787.2843ca88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d224838.css",
-    "static/js/main.9624ff6d.js"
+    "static/js/main.dc20d6c3.js"
   ]
 }
