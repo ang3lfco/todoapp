@@ -7,5 +7,5 @@ Live site: https://ang3lfco.github.io/todoapp/
 
 The project is unfinished, working on some additional details
 * Adapting responsive design.
-* There is a bug that causes a problem when you delete a marked task and it has post tasks to complete. I'll publishing as soon as possible.
+* There is a bug that causes a problem when you delete a marked task and it has post tasks to complete. I'll publishing it as soon as possible.
 * I'll create another version in a while with more functions and better UI.
